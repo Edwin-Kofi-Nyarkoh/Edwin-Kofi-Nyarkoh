@@ -6,7 +6,8 @@
 
 💻 Proficient in:
 - HTML5, CSS3, JavaScript (ES6+)
-- Frameworks: React, 
+- Library: React,
+- Framework: NEXT js, 
 - Libraries: Bootstrap, Tailwind CSS
 
 🌱 Continuously learning and exploring new technologies to stay at the forefront of the web development field.
