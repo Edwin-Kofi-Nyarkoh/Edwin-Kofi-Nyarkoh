@@ -65,7 +65,7 @@ I am Edwin Kofi Nyarkoh, a Level 300 Information Technology student at the Unive
 
 ## 🌐 Portfolio
 
-👉 https://[my portfolio-93e5.onrender.com](https://edwins-portfolio-iz5s.vercel.app/)
+👉 https://[edwins-portfolio-iz5s.vercel.app](https://edwins-portfolio-iz5s.vercel.app/)
 
 
 
