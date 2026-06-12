@@ -1,29 +1,78 @@
-👋 Hello! I'm Edwin Kofi Nyarkoh,
+# 👋 Hi, I'm Edwin Kofi Nyarkoh
 
-🚀 A passionate front-end developer with a knack for crafting visually stunning and user-friendly websites.
+🔐 Cloud & Cybersecurity-Focused Developer**
+☁️ Building Secure Cloud Systems & Applications**
 
-💡 I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
-💻 Proficient in:
-- HTML5, CSS3, JavaScript (ES6+)
-- Library: React,
-- Framework: NEXT js, 
-- Libraries: Bootstrap, Tailwind CSS
 
-🌱 Continuously learning and exploring new technologies to stay at the forefront of the web development field.
+## 💡 About Me
 
-🔧 Currently working on:
-- Enhancing web performance and accessibility
-- Building responsive and adaptive web applications
+I am Edwin Kofi Nyarkoh, a Level 300 Information Technology student at the University of Cape Coast and an AWS Certified Cloud Practitioner. I build full-stack applications while sharpening cloud security skills across IAM, VPC design, S3 hardening, CloudTrail auditing, Linux, Kali Linux, and network reconnaissance.
 
-🎨 Lover of clean code, modular design, and best practices in UI/UX.
 
-🌐 Check out my portfolio: https://my-first-portfolio-93e5.onrender.com
+## 🔐 Core Focus
 
-📫 Let's connect:
-- LinkedIn: [Your LinkedIn URL]
-- TikTok: [Your Twitter URL]
-- Email: edwin.kofi.nyarkoh@gmail.com
+* Cloud Security (AWS)
+* Cybersecurity Fundamentals & Best Practices
+* Secure Authentication & Authorization
+* API & Backend Security
+* Threat Monitoring & Logging
 
-Thanks for stopping by! 😊
 
+## ☁️ Cloud & Security Skills
+
+* AWS IAM (Identity & Access Management)
+* VPC (Network Isolation & Security)
+* S3 Security & Access Policies
+* CloudTrail (Monitoring & Auditing)
+* Prowler (Cloud Security Auditing)
+* kali Linux
+
+
+## 🛠️ Development Stack
+
+### ⚙️ Backend & Systems
+
+* Node.js
+* Prisma ORM
+* PostgreSQL
+
+### 💻 Frontend (Support)
+
+* React.js
+* Next.js
+* Tailwind CSS
+
+
+
+## 🔧 What I'm Working On
+
+* Securing cloud-based applications on AWS
+* Implementing strong authentication systems
+* Learning advanced cloud security practices
+* Building real-world secure full-stack projects
+
+
+
+## 🎯 Philosophy
+
+* Stay constantly evolving in cybersecurity      
+* Security comes first — not as an afterthought
+* Build systems that are resilient and scalable
+* Write clean, maintainable, and secure code
+
+
+
+## 🌐 Portfolio
+
+👉 https://[my portfolio-93e5.onrender.com](https://edwins-portfolio-iz5s.vercel.app/)
+
+
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: [Edwin Kofi Nyarkoh](https://www.linkedin.com/in/edwin-nyarkoh-3552a131a/)
+
+
+
+⭐ *Focused on securing the cloud and the modern web.*
